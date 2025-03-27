@@ -22,6 +22,7 @@ The vision is to create a secure and transparent academic credentialing system o
 - **Badge Marketplace** – Create a decentralized marketplace where institutions can offer customized badges.  
 - **Interoperability** – Allow the badges to be recognized across different educational platforms and institutions.  
 - **Reputation System** – Build a reputation score based on the number and quality of badges earned.  
+![image](https://github.com/user-attachments/assets/3a737d50-cd3a-4ec9-b60c-5c3a1fe06b8d)
 
 ---
 
